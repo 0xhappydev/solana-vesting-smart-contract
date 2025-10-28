@@ -3,12 +3,6 @@
 <p align="center">
 <img width="250" src="https://i.imgur.com/nn7LMNV.png"/>
 </p>
-<p align="center">
-<a href="https://twitter.com/bonfida">
-<img src="https://img.shields.io/twitter/url?label=Bonfida&style=social&url=https%3A%2F%2Ftwitter.com%2Fbonfida">
-</a>
-</p>
-
 <br />
 
 <div align="center">
@@ -40,11 +34,6 @@
 <h2 align="center">Audit</h2>
 <br />
 
-This code has been audited by Kudelski ✅
-
-- Audit report: [Bonfida Token Vesting Report](/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf)
-
-<br />
 <a name="ui"></a>
 <h2 align="center">UI</h2>
 <br />
